@@ -257,7 +257,7 @@ h1 {
 .bottom-compliment {
     position: fixed;
     bottom:450px;
-    left: 10px;
+    left: 100px;
     font-size: 0.9em;
     color: #ff4d6d;
     opacity: 0.7;
